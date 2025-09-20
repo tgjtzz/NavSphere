@@ -1035,6 +1035,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758379261500",
+          "title": "我的工具箱",
+          "href": "http://dl.wifi942.com:88/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
