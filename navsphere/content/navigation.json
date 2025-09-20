@@ -908,6 +908,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1758355875836",
+      "title": "TV",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
