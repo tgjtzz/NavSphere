@@ -971,6 +971,14 @@
           "description": "访问 www.kaniptv.cn",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758380739827",
+          "title": "电视直播工具",
+          "href": "http://8.138.7.223/tool/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
