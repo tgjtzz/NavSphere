@@ -987,6 +987,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758380884731",
+          "title": "IPTV抓包数据解析",
+          "href": "https://gyssi.link/iptv/888.html",
+          "description": "",
+          "icon": "/assets/favicon_1758380887516.png",
+          "enabled": true
         }
       ],
       "subCategories": []
