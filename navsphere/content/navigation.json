@@ -987,6 +987,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
           "enabled": true
+        },
+        {
+          "id": "1758356347781",
+          "title": "TVBox加解密",
+          "href": "https://www.qiushui.vip/gj/jm.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
