@@ -917,6 +917,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1758356031268",
+          "title": "TXT与M3U互转",
+          "href": "https://www.qiushui.vip/gj/zh.html",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
           "id": "1758356078468",
           "title": "咪咕ID",
           "href": "https://www.qiushui.vip/gj/mgid.php",
