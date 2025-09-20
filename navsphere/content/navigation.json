@@ -963,6 +963,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=qiushui.vip",
           "enabled": true
+        },
+        {
+          "id": "1758356230339",
+          "title": "IPTV互动系统",
+          "href": "https://www.qiushui.vip/gj/hd.php",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
