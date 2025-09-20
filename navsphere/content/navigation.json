@@ -917,14 +917,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1758356230339",
-          "title": "IPTV互动系统",
-          "href": "https://www.qiushui.vip/gj/hd.php",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1758356273204",
           "title": "JSMPEG获取",
           "href": "https://www.qiushui.vip/gj/hls.php",
