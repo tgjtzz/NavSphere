@@ -931,6 +931,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
           "enabled": true
+        },
+        {
+          "id": "1758356078468",
+          "title": "咪咕ID",
+          "href": "https://www.qiushui.vip/gj/mgid.php",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
