@@ -917,14 +917,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1758356386724",
-          "title": "M3U解析工具",
-          "href": "https://www.shqsy.com/m3u.php",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1758356426317",
           "title": "Tvheadend获取",
           "href": "https://www.qiushui.vip/gj/tvh.php",
