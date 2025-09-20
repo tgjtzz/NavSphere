@@ -1019,6 +1019,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
           "enabled": true
+        },
+        {
+          "id": "1758356485871",
+          "title": "组播断流检测",
+          "href": "https://www.qiushui.vip/gj/zbjc.php",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
