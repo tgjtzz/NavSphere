@@ -939,6 +939,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758379869449",
+          "title": "多源 IPTV 配置工具",
+          "href": "http://blog.1393408.xyz/kzb/config.html",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
