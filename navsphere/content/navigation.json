@@ -1003,6 +1003,14 @@
           "description": "",
           "icon": "/assets/favicon_1758356389782.png",
           "enabled": true
+        },
+        {
+          "id": "1758356426317",
+          "title": "Tvheadend获取",
+          "href": "https://www.qiushui.vip/gj/tvh.php",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
