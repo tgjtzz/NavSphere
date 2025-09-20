@@ -1043,6 +1043,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758379621237",
+          "title": "iptv管理系统",
+          "href": "http://100.66.1.1:5678/manage.php",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
