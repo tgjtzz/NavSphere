@@ -995,6 +995,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
           "enabled": true
+        },
+        {
+          "id": "1758356386724",
+          "title": "M3U解析工具",
+          "href": "https://www.shqsy.com/m3u.php",
+          "description": "",
+          "icon": "/assets/favicon_1758356389782.png",
+          "enabled": true
         }
       ],
       "subCategories": []
