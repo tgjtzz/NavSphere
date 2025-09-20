@@ -963,6 +963,14 @@
           "description": "访问 iptv.cqshushu.com",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758380722531",
+          "title": "Kaniptv",
+          "href": "http://www.kaniptv.cn/",
+          "description": "访问 www.kaniptv.cn",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
