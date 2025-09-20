@@ -1003,6 +1003,14 @@
           "description": "小盒子TV工具箱是一款专为TVbox、影视仓、IPTV等接口提供解析编辑的免费工具箱！",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758381226428",
+          "title": "传说工具箱",
+          "href": "https://uu.uuuuu.uk.to/api/index.html",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
