@@ -923,6 +923,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
           "enabled": true
+        },
+        {
+          "id": "1758356031268",
+          "title": "TXT与M3U互转",
+          "href": "https://www.qiushui.vip/gj/zh.html",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.qiushui.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
