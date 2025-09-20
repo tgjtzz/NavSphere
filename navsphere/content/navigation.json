@@ -995,6 +995,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758381193268",
+          "title": "小盒子工具箱",
+          "href": "https://xhztv.pro/",
+          "description": "小盒子TV工具箱是一款专为TVbox、影视仓、IPTV等接口提供解析编辑的免费工具箱！",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
