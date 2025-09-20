@@ -1011,6 +1011,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758381287980",
+          "title": "淘iptv",
+          "href": "https://taoiptv.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
