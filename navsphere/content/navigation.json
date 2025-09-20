@@ -917,14 +917,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1758356458943",
-          "title": "TVBox接口解析",
-          "href": "https://www.qiushui.vip/gj/jiemi/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1758356485871",
           "title": "组播断流检测",
           "href": "https://www.qiushui.vip/gj/zbjc.php",
