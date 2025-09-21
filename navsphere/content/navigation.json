@@ -36,6 +36,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1758465974346_x178yb3lb",
+          "title": "小白互联",
+          "href": "https://idc.xbyidc.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
