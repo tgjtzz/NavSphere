@@ -170,6 +170,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758423839189",
+          "title": "智能电视网",
+          "href": "https://www.znds.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
