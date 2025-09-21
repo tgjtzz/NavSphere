@@ -138,6 +138,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1758440735795_jv3xi0pt3",
+          "title": "分享迷 - 优质精品TV软件、互联网资源分享",
+          "href": "https://www.fenxm.com/",
+          "description": "分享迷致力于精选优质TV大屏软件、技术教程、电视资讯等内容，并关注电脑、手机等平台，推荐各类互联网好玩的事物！",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
