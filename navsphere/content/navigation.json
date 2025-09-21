@@ -126,6 +126,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758418158947",
+          "title": "音范丝",
+          "href": "https://www.yinfans.me/",
+          "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
