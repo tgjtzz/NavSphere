@@ -146,6 +146,14 @@
           "description": "分享迷致力于精选优质TV大屏软件、技术教程、电视资讯等内容，并关注电脑、手机等平台，推荐各类互联网好玩的事物！",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1758444184742_so8k5inht",
+          "title": "美国地址生成",
+          "href": "https://haoweichi.com/",
+          "description": "随机生成虚构美国身份，包括姓名，地址，电话，职称，信用卡，身高，体重等信息，获取美国人信息，获取美国人地址",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
