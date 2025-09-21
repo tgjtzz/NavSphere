@@ -22,14 +22,6 @@
           "enabled": true
         },
         {
-          "id": "1741747111596",
-          "title": "UU工具箱",
-          "href": "https://uutool.cn",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1758426346815",
           "title": "UP云搜 - 网盘资源搜索神器",
           "href": "https://www.upyunso.com",
@@ -138,7 +130,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "1741747111596",
+          "title": "UU工具箱",
+          "href": "https://uutool.cn",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
