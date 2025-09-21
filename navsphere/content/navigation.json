@@ -118,6 +118,14 @@
           "description": "影视聚合",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758415886543",
+          "title": "好好看",
+          "href": "https://www.hhkan0.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
