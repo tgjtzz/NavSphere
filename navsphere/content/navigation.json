@@ -110,6 +110,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758415801665",
+          "title": "MoonTV",
+          "href": "http://moontv.1393408.xyz",
+          "description": "影视聚合",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": [],
