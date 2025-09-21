@@ -162,6 +162,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758422762331",
+          "title": "我看电视",
+          "href": "https://5kds.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
