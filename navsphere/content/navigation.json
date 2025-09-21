@@ -146,7 +146,16 @@
       "icon": "Box",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1758422559882",
+          "title": "吾爱破解",
+          "href": "http://www.52pojie.cn",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
