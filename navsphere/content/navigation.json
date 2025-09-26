@@ -170,6 +170,14 @@
           "description": "随机生成虚构美国身份，包括姓名，地址，电话，职称，信用卡，身高，体重等信息，获取美国人信息，获取美国人地址",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1758896743462_zm5beu6eb",
+          "title": "Skyworth 密码计算器",
+          "href": "https://wackdust.pythonanywhere.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wackdust.pythonanywhere.com",
+          "enabled": true
         }
       ],
       "subCategories": [],
