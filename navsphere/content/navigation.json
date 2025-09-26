@@ -176,7 +176,7 @@
           "title": "Skyworth 密码计算器",
           "href": "https://wackdust.pythonanywhere.com",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wackdust.pythonanywhere.com",
+          "icon": "",
           "enabled": true
         }
       ],
