@@ -130,6 +130,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1758380655563",
+          "title": "Iptv列表解析",
+          "href": "http://iptv.cqshushu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -212,14 +220,6 @@
           "title": "影视仓接口地址管理",
           "href": "https://api.starlink.uno/index.php",
           "description": "专注影视仓接口管理与资源更新：影视仓接口地址管理系统提供最新影视仓接口、TVBOX 配置地址及影视仓配置地址大全。支持接口在线编辑、JSON 自动生成与实时同步，助力开发者高效管理接口，用户快速获取可用配置。",
-          "icon": "",
-          "enabled": true
-        },
-        {
-          "id": "1758380655563",
-          "title": "Iptv列表解析",
-          "href": "http://iptv.cqshushu.com/",
-          "description": "",
           "icon": "",
           "enabled": true
         },
