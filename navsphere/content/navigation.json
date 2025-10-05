@@ -44,6 +44,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1759647114255_4ibo0fzav",
+          "title": "1panel",
+          "href": "https://1panel.cn/",
+          "description": "1Panel 提供了一个直观的 Web 界面，帮助用户轻松管理 Linux 服务器中的应用、网站、文件、数据库以及大语言模型（LLMs）等。",
+          "icon": "/assets/favicon_1759647067165.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
