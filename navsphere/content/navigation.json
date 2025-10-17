@@ -154,6 +154,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1760705931059_28z2vd4vp",
+          "title": "直播源论坛",
+          "href": "https://bbs.livecodes.vip/",
+          "description": "直播源论坛",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.livecodes.vip",
+          "enabled": true
         }
       ],
       "subCategories": []
