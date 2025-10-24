@@ -210,6 +210,14 @@
           "description": "Linux工具箱是一个功能强大的Linux系统管理工具，提供系统优化、虚拟内存管理、DNS配置、软件源更换等多种功能，让Linux服务器管理变得简单高效。",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1761310771268_bz8fgis2u",
+          "title": "文件夹分享",
+          "href": "https://folderport.com/zh",
+          "description": "",
+          "icon": "/assets/favicon_1761310752256.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
