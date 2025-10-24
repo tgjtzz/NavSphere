@@ -1,0 +1,2256 @@
+<html lang="zh-CN">
+<head>
+        <meta charset="UTF-8"/>
+    <link rel="icon" href="" type="image/x-icon"/>
+    <title>核云计算平台</title>
+    <meta name="keywords" content="核云计算平台"/>
+    <meta name="description" content="核云计算平台"/>
+    <link rel="dns-prefetch" href="https://www.heyunidc.cn">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="applicable-device" content="pc,mobile"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="referrer" content="no-referrer-when-downgrade"/>
+    <meta name="path" content="https://www.heyunidc.cn/themes/web/www"/>
+    <meta property="og:title" content="核云计算平台"/>
+    <meta property="og:keywords" content="核云计算平台"/>
+    <meta property="og:description" content="核云计算平台"/>
+    <meta property="is:client" content="pc"/>
+    <meta property="is:home" content="1"/>
+    <meta property="viewPath" content="index"/>
+    <meta property="statement" content="已申请软著，盗版必究！"/>
+    <link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/typo.css?v3.7.7"/>
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/universalComponents.css?v3.7.7"/>
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/swiper-bundle.min.css?v3.7.7"/>
+<!-- CSS  全局-->
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/global.css?v3.7.7"/>
+<link rel="stylesheet" type="text/css"
+      href="//at.alicdn.com/t/c/font_4334155_zodnrrjlblp.css"/>
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/nav.css?v3.7.7"/>
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/footer.css?v3.7.7"/>
+<!-- CSS  Test-->
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/module.css?v3.7.7"/>
+
+<!-- SCRIPT  v3.7.7-->
+<script src="/themes/web/www/static/script/jquery.min.js?v3.7.7"></script>
+<script src="/themes/web/www/static/script/swiper-bundle.min.js?v3.7.7"></script>
+<!--//数字动画 <h2 class="slowNumber">100,42</h2>-->
+<script src="/themes/web/www/static/script/slowNumber.js?v3.7.7"></script>
+<!--//图片查看器-->
+<script src="/themes/web/www/static/script/lightgallery-all.min.js?v3.7.7"></script>
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/lightgallery.css?v3.7.7"/>
+
+<!--//tooltip提示-->
+<script src="/themes/web/www/static/script/jTippy.min.js?v3.7.7"></script>
+
+<!--//Alert消息提示和复制-->
+<script src="/themes/web/www/static/script/clipboard.min.js?v3.7.7"></script>
+<script src="/themes/web/www/static/script/coco-message.js?v3.7.7"></script>
+
+<!--//弹窗提示-->
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/static/css/layer-animate.css?v3.7.7"/>
+<script src="/themes/web/www/static/script/method.js?v3.7.7"></script>
+
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/default/html/globalCSS.css?v3.7.7"/>
+<link rel="stylesheet" type="text/css"
+      href="/themes/web/www/default/html/wwwCSS.css?v3.7.7"/>
+
+<!-- 挂载 CSS全局 文件 -->
+<style>:root{--fontsthickness:initial; --BodyBackground:#fff; --txtcl:#181818; --buttoncolor:#0052d9; --colorv:#0052d9; --maxwidth:1440px; --minwidth:745px; --padding:64px; --radius:4px; --PcLogo:33px; --MobileLogo:28px; --logocolorv:transparent; --fonts:14px code, Microsoft YaHei, sans-serif; --waplogo:/themes/web/www/upload/local68c30272ab53b.png; --logo:/themes/web/www/upload/local68c30272ab53b.png; --whitelogo:/themes/web/www/upload/local68c30272ab53b.png; --logocolorvpadding:0; --darker1:#002ab1; --darker2:#003ec5; --Original:#0052d9; --lighter1:#1466ed; --lighter2:#287aff; --lighter3:#3c8eff; --lighter4:#50a2ff; --lighter5:#64b6ff; --gradient2:linear-gradient(180deg,#0052d9, #002ab1); --gradient1:linear-gradient(180deg,#0052d9, #1466ed); --gradient3:linear-gradient(180deg, #1466ed 0%, #0052d9 64%, #002ab1 100%); --gradient4:linear-gradient(180deg, #287aff 0%, #0052d9 64%, #003ec5 100%); --topadheight:48px; --topadcolor:rgba(21, 28, 67, 1); --textColor:rgba(255, 255, 255, 1); --topjustify:center; --headColor:#fff; --translucentdegree:12px; --navheight:62px; --navfontSize:14px; --navfontWeight:500; --navfontWeight_r:500; --navmodeheight:42px; --navleft_height:268px; --navleft_color:#F7F9FD; --navleft_banner:url('/themes/web/www/static/picture/remoteL17017764609130.png'); --navright_color:#fff; --navright_block:rgba(240, 244, 255, 0.24); --nav_classRow:230px; --nav_register:rgba(0, 86, 255, 1); --nav_registerHover:#FFC107; --wapnavheight:62px; --wapnavColor:transparent; --wapnavleft_height:138px; --wapnavleft_color:#f4f8ff; --wapnavright_color:#fff; --slideProgresswidth:42px; --slideProgressheight:4px; --slideHeight:540px; --slideLeftWidth:268px; --slidePagination:5000ms; --slideLeftBottom:80px; --slideInterval:60px; --slideCharactersBottom:118px; --slideProgressBottom:86px; --slidedefaultPicture:/themes/web/www/static/picture/remoteL17018775198183.jpeg; --slidedeLeftHeight:auto; --slidedeEnlarge:35px; --wapslideProgresswidth:32px; --wapslideProgressheight:4px; --wapslideHeight:388px; --wapslideBottom:66px; --wapslidemargins:0; --wapslideRadius:0; --wapslideprogressB:42px; --slidePagination:5000ms; --slide_belowBottom:-58px; --slide_belowBottom_fit:20px; --slide_belowCount:4; --slide_belowGap:20px; --slide_belowBolor:rgba(255, 255, 255, 1); --slide_belowtop:28px; --slide_belowleft:24px; --slide_belowradius:0px; --compprodmaxwidth:294px; --compprodmaxheight:290px; --compprodbackground:url('/themes/web/www/static/picture/remoteL17018775198183.jpeg'); --compprofirstwidth:6; --compprosecondwidth:300px; --footer_filter:none; --solutionleftwidth:600px; --certificatewidth:180px; --Certificateheight:68px; --certificaterounded:0px; --mapHeight:280px; --partners_blockWidth:180px; --partners_blockHeight:98px; --partners_blockMargin:26px; --partners_blockImageWidth:112px; --partners_blockMaxHeight:38px; --partners_blockradius:4px; --partners_after:#f4f5f9; --banner_height:420px; --banner_background:url('../banner/local65ab5f44a43e2.png'); }</style></head>
+<body class="inherit">
+<section class="nav-layoutcontainer">
+    <div class="horizontal-menu-navbar ">
+        <div class="horizontal-menu-navbar-logo">
+            <a href="/">
+                <img src="/themes/web/www/upload/local68c30272ab53b.png" alt="核云计算平台" srcset=""
+                     class="horizontal-logosize">
+            </a>
+        </div>
+        <div class="headerBg notransparent translucent"></div>
+        <div class="horizontal-menu-navbar-container">
+            <div class="horizontal-container-navbar">
+                <div class="menu-container-left">
+                    <div class="horizontal-menu-navbar-scroll-btn horizontal-menu-scroll-left">
+                        <i
+                                class="universal icon-arrow-11"></i>
+                    </div>
+                </div>
+                <div class="horizontal-menu-navbar-menu-container">
+                    <ul class="horizontal-menu-navbar-menu ">
+                        <li><a href="/market"  data-childtype="url" class="">主机市场<span class="navbar-menu-tag"><i style="background-color:#0079ff">新</i></span></a></li>
+                                                <li>
+                            <a                                href="/newestactivity.html"
+                                                           data-key="0"
+                            data-childtype="url">
+                            最新活动                            <span class="navbar-menu-tag">
+                                <i style="background-color:">HOT</i></span>
+                                                        </a>
+                        </li>
+                                                <li>
+                            <a                             data-key="1"
+                            data-childtype="groups">
+                            产品与服务                            </a>
+                        </li>
+                                                <li>
+                            <a                             data-key="2"
+                            data-childtype="page">
+                            解决方案                            </a>
+                        </li>
+                                                <li>
+                            <a                             data-key="3"
+                            data-childtype="nav">
+                            生态合作                            </a>
+                        </li>
+                                                <li>
+                            <a                             data-key="4"
+                            data-childtype="nav">
+                            支持与服务                            </a>
+                        </li>
+                                                <li>
+                            <a                             data-key="5"
+                            data-childtype="nav">
+                            了解我们                            </a>
+                        </li>
+                        
+                    </ul>
+                    <span class="underline"></span>
+                </div>
+                <div class="menu-container-right">
+                    <div class="horizontal-menu-navbar-scroll-btn horizontal-menu-scroll-right">
+                        <i
+                                class="universal icon-arrow-11"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="horizontal-menu-navbar-search">
+            <div class="horizontal-menu-right-container">
+                                <div class="input-inner-wrapper">
+                    <label class="input-label">
+                        <input type="text" placeholder="云服务器"
+                               class="search-input">
+                        <span class="input-suffix">
+                        <i class="search-icon develop sk-sousuo1"></i>
+                    </span>
+                    </label>
+                    <div class="nav-search">
+                        <div class="nav-search-body">
+                            <div class="nav-search-close">
+                                <img alt="关闭" class="close-icon"
+                                     src="/themes/web/www/static/picture/remoteL17054789546267.svg">
+                            </div>
+                            <ul class="nav-search-tabs">
+                                <li class="nav-search-tab active"
+                                    data-target="all">全部产品
+                                </li>
+                                <li class="nav-search-tab" data-target="news">
+                                    新闻资讯
+                                </li>
+                                <li class="nav-search-tab" data-target="docs">
+                                    帮助文档
+                                </li>
+                            </ul>
+                            <div class="nav-search-input-wrapper">
+                                <input type="text" placeholder="云服务器"
+                                       class="nav-search-input">
+                                <span class="nav-search-input-suffix">
+                             <i class="search-icon develop sk-sousuo1"></i>
+                         </span>
+                            </div>
+                            <div class="nav-search-hotProducts">
+                                <p class="nav-search-hotProducts-title">
+                                    热销推荐</p>
+                                <i class="nav-search-hotProducts-icon develop sk-gonggong-xinwenbiaoqian1"></i>
+                            </div>
+                            <div class="nav-search-recommendation">
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="navbar-public">
+                    <a href="/help.html">文档中心</a>
+                </div>
+                <div class="delimiter"></div>
+                                <div class="navbar-public">
+                    <a href="/clientarea">控制台</a>
+                </div>
+                <div class="delimiter"></div>
+                                <div class="navbar-Register">
+                    <a href="/login">登录</a>
+                </div>
+                <a class="navbar-Login" href="/register">
+                    免费注册
+                </a>
+                                <!-- 已登录-->
+                            </div>
+        </div>
+    </div>
+    <div class="menu-dropdown-container" style="display: none;"></div>
+</section>
+<section class="nav-data" style="display:none;height:0;width: 0;">
+            <div data-key="1" data-childtype="groups">
+                <div class="Submenu-background black">
+    <div class="comp_containerw1680p0 comp_container_auto CloseButtonMount">
+        <div class="Submenu-container product_services">
+            <div class="Submenu-left">
+                <div class="Submenu-left-container">
+                    <div class="Submenu-menuInfo">
+                        <h1 class="Submenu-menuInfo-title">产品与服务</h1>
+                        <div class="Submenu-product-tab">
+                            <ul class="Submenu-product-list">
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>2025 · 海外特惠活动</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>2025 · 挂机宝特惠活动</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>2025 · 上云活动</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>限时最新活动</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>中国香港新区</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>香港服务器百兆带宽区</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>大陆云服务器</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>美国云服务器</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>新加坡云服务器</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>大陆云挂机宝</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>物理服务器</a>
+                                </li>
+                                                                <li class="Submenu-product-name" data-identification="product">
+                                    <a>服务器托管</a>
+                                </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="Submenu-middle-right">
+                <div class="Submenu-right-search">
+                    <div class="Submenu-middle-search">
+    <div class="Submenu-middle-search-flex">
+        <div class="Submenu-middle-search-box">
+            <div class="Submenu-middle-search-box-left">
+                <i class="Submenu-middle-search-icon develop sk-sousuo1"></i>
+                <input class="Submenu-middle-search-text" placeholder="请输入搜索内容" type="text">
+            </div>
+        </div>
+        <div class="Submenu-middle-search-content">
+            <ul class="search-right-content">
+                                <li>
+                    <a atl="云服务器" class="search-right-content-text" href="">云服务器</a>
+                </li>
+                                <li>
+                    <a atl="CDN" class="search-right-content-text" href="">CDN</a>
+                </li>
+                                <li>
+                    <a atl="物理机" class="search-right-content-text" href="">物理机</a>
+                </li>
+                                <li>
+                    <a atl="虚拟主机" class="search-right-content-text" href="">虚拟主机</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</div>
+                </div>
+                <div class="Submenu-right-line">
+                                        <div class="menu-product-content">
+                        <div class="Submenu-middle">
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=37&gid=61" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">2025 · 海外特惠年付</span>
+                                                                                                <span class="list-product-hot">活动</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">仅有Linux操作系统,仅支持现金支付，不支持退款，数据盘自选购买，每人限购一台，官网三证齐全，线路：cn2+9929+cmin2，官方群：1039301248，机器不定时加库存，购买前请仔细阅读</div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=37&gid=62" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">2025 · 海外特惠月付</span>
+                                                                                                <span class="list-product-hot">活动</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">仅有Linux操作系统,仅支持现金支付，不支持退款，数据盘自选购买，每人限购一台，官网三证齐全，线路：新加坡BGP，官方群：1039301248，机器不定时加库存，购买前请仔细阅读</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=38&gid=63" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">2025 · 挂机宝特惠年付</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc"></div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=34&gid=55" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">2025 · 上云活动</span>
+                                                                                                <span class="list-product-hot">活动</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">国庆佳节，感恩回馈！为满足个人开发者、中小企业及企业级用户的多样化云服务需求，我们精心优化了本次国庆云服务特惠活动，从产品分类、价格透明度、福利力度到用户体验均进行升级，让您以更优惠的价格、更清晰的选择，获取稳定高效的云服务资源。</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=27&gid=49" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/CN.png"
+                                                         alt="国内活动区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">国内活动区</span>
+                                                                                                <span class="list-product-hot">活动</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">此活动区会定时定点的更新最新产品，请大家及时关注</div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=27&gid=52" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/CN.png"
+                                                         alt="西安年付活动区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">西安年付活动区</span>
+                                                                                                <span class="list-product-hot">活动</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">此活动区会定时定点的更新最新产品，请大家及时关注</div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=27&gid=50" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/CN.png"
+                                                         alt="大陆挂机宝"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">大陆挂机宝</span>
+                                                                                                <span class="list-product-hot">活动</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">此活动区会定时定点的更新最新产品，请大家及时关注</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=30&gid=30" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/HK.png"
+                                                         alt="香港CN2一区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">香港CN2一区</span>
+                                                                                                <span class="list-product-hot">最新</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">香港服务器CN2/CTG极速服务器，提供无与伦比的高速连接，稳定可靠，满足您的所有业务需求</div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=30&gid=51" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/HK.png"
+                                                         alt="香港AMD二区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">香港AMD二区</span>
+                                                                                                <span class="list-product-hot">最新</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">香港AMD7K62服务器CN2/CTG极速服务器，提供无与伦比的高速连接，稳定可靠，满足您的所有业务需求</div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=30&gid=44" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/HK.png"
+                                                         alt="香港CN2三区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">香港CN2三区</span>
+                                                                                                <span class="list-product-hot">最新</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">香港服务器CN2/CTG极速服务器，提供无与伦比的高速连接，稳定可靠，满足您的所有业务需求</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=18&gid=15" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/HK.png"
+                                                         alt="香港服务器百兆一区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">香港服务器百兆一区</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">香港百兆大宽带服务器一区，提供超强防御，稳定可靠，保障您的业务无时无刻不在安全环境中运行。</div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=18&gid=36" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/HK.png"
+                                                         alt="香港服务器百兆二区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">香港服务器百兆二区</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">香港百兆大宽带服务器二区，提供超强防御，稳定可靠，保障您的业务无时无刻不在安全环境中运行。</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=19&gid=16" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/CN.png"
+                                                         alt="宁波电信一区"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">宁波电信一区</span>
+                                                                                                <span class="list-product-hot">缺货</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">宁波电信高防服务器一区，企业精品，提供稳定、高效、安全的云计算服务，满足您的各种业务需求</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=39&gid=64" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">美国云服务器一区</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc"></div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=40&gid=65" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">新加坡云服务器一区</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc"></div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=25&gid=26" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">芜湖NAT挂机宝一区</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc"></div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=25&gid=29" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <span class="list-product-name">枣庄NAT挂机宝一区</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc"></div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=35&gid=58" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/CN.png"
+                                                         alt="广州 | BGP物理机"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">广州 | BGP物理机</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">高端体验、BGP专线接入</div>
+                                        </div>
+                                    </a>
+                                                                        <a href="/cart?fid=35&gid=60" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/CN.png"
+                                                         alt="宁波 | 电信物理机"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">宁波 | 电信物理机</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">优质高端体验、100%性能释放、配备金盾防火墙，适合无攻击或有少量攻击业务</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                        <div class="Submenu-middle-product">
+                                <div class="Submenu-product-content-list">
+                                                                        <a href="/cart?fid=36&gid=59" class="list-product-content" >
+                                        <div class="list-product-text-content">
+                                            <div class="list-product-title">
+                                                                                                <div class="list-product-img">
+                                                    <img src="/upload/common/country/CN.png"
+                                                         alt="宁波 · 电信 | 托管"
+                                                         class="list-product-img-country">
+                                                </div>
+                                                                                                <span class="list-product-name">宁波 · 电信 | 托管</span>
+                                                
+                                            </div>
+                                            <div class="list-product-desc">国家战略数据中心，网络高可用、低延迟</div>
+                                        </div>
+                                    </a>
+                                                                    </div>
+                            </div>
+                                                    </div>
+                                                <div class="Submenu-right">
+                                                        <div class="Submenu-advertisement">
+        <a class="advertisement-content " href="/activities/default.html?method=activity&id=12" >
+    <img alt="2025·双十一上云狂欢购" src="/themes/web/www/upload/local68f88e47a6317.jpg">
+    <div class="advertisement-position">
+        <div class="advertisement-title">
+            2025·双十一上云狂欢购        </div>
+        <div class="advertisement-desc">
+            活动时间 3
+云服务器促销时段：10月23日12:00至11月12日23:59
+预存充值 ：成功购买预存活动后，用户账户将在活动当天23:00前自动返现至云服务账户，有效期至11月12日23:59        </div>
+    </div>
+    </a>
+        <a class="advertisement-content " href="/activities/default.html?method=activity&id=11" >
+    <img alt="2025年· 上云预存活动" src="/themes/web/www/upload/local68d790d684fea.jpg">
+    <div class="advertisement-position">
+        <div class="advertisement-title">
+            2025年· 上云预存活动        </div>
+        <div class="advertisement-desc">
+            适用用户：平台实名正常账号
+适用范围：平台余额充值与云服务器下单（充值礼为全平台余额）
+充值享豪礼：（赠送余额+云服务器）        </div>
+    </div>
+    </a>
+    </div>
+                                                    </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+            <div data-key="2" data-childtype="page">
+                <div class="Submenu-background black close">
+    <div class="comp_containerw1680p0 comp_container_auto CloseButtonMount">
+        <div class="Submenu-container page_services">
+                        <div class="Submenu-left">
+                <div class="Submenu-left-container">
+                    <div class="Submenu-menuInfo-container">
+                        <div class="Submenu-menuInfo">
+                            <h1 class="Submenu-menuInfo-title">解决方案</h1>
+                                                        <p class="Submenu-desc">特殊需求定制，适配千万行业应用场景</p>
+                                                    </div>
+                        <div class="Submenu-page-tab"  style="margin-top:0">
+                            <ul class="Submenu-page-list">
+                                                                <li class="Submenu-page-name" data-identification="page">
+                                    <a>行业解决方案</a>
+                                                                    </li>
+                                                                <li class="Submenu-page-name" data-identification="page">
+                                    <a>通用解决方案</a>
+                                                                    </li>
+                                                                                            </ul>
+                        </div>
+                        <div class="Submenu-button" alt="其他信息">
+                                                    </div>
+                    </div>
+                    <div class="Submenu-contact" alt="联系信息">
+                                            </div>
+                </div>
+            </div>
+                        <div class="Submenu-middle-right">
+                <div class="Submenu-right-line">
+                    <div class="Submenu-middle">
+                                                    <div class="page-item">
+                        <div class="Submenu-middle-content ">
+                                                        <a href="/plan/electricity.html" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">电商解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">全新电商云解决方案，助您轻松打造线上商城，实现全面数字化经营。</span>
+                            </a>
+                                                        <a href="/plan/web.html" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">网站解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">提供全面的网站解决方案，助您轻松打造专业网站。</span>
+                            </a>
+                                                        <a href="/plan/game.html" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">游戏解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">高效、稳定的游戏解决方案，提升玩家体验，驱动业务增长。</span>
+                            </a>
+                                                        <a href="/plan/safety.html" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">安全解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">探索我们的云安全解决方案，保护您的数据，确保业务连续性。</span>
+                            </a>
+                                                        <a href="/plan/Goingtosea.html" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">出海解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">一站式出海解决方案，助力企业无缝拓展海外市场。</span>
+                            </a>
+                                                        <a href="/plan/financial.html" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">金融解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">助力您的业务实现财务优化和增长。</span>
+                            </a>
+                                                        <a href="/plan/government.html" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">政企解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">为政企提供的全面、高效、安全的云解决方案。</span>
+                            </a>
+                                                                                    </div>
+                        </div>
+                                                    <div class="page-item">
+                        <div class="Submenu-middle-content ">
+                                                        <a href="" class="Submenu-item" >
+                            <div class="Submenu-item-title">
+                                <span class="Submenu-title">工业解决方案</span>
+                                                            </div>
+                            <span class="Submenu-desc">提升工业效率，实现无缝的数字化转型。</span>
+                            </a>
+                                                                                    </div>
+                        </div>
+                                                                            </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+            <div data-key="3" data-childtype="nav">
+                <div class="Submenu-background black close">
+    <div class="comp_containerw1680p0 comp_container_auto CloseButtonMount">
+        <div class="Submenu-container">
+                        <div class="Submenu-left">
+                <div class="Submenu-left-container">
+                    <div class="Submenu-menuInfo-container">
+                    <div class="Submenu-menuInfo">
+                        <h1 class="Submenu-menuInfo-title">生态合作</h1>
+                        <p class="Submenu-desc">携手合作伙伴，实现业务上的双向合作共赢</p>
+                    </div>
+                    <div class="Submenu-button" alt="其他信息">
+                                            </div>
+                    </div>
+                    <div class="Submenu-contact" alt="联系信息">
+                                            </div>
+                </div>
+            </div>
+                        <div class="Submenu-middle-right">
+                <div class="Submenu-right-line">
+                    <div class="Submenu-middle">
+                        <div class="Submenu-middle-content">
+                                                        <a href="/webmaster.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">百站赞助公益计划</span>
+                                                                        <span class="Submenu-tag" style="color:#F5222D;border-color: #F5222D;">赞助</span>
+                                                                    </div>
+                                <span class="Submenu-desc">赞助百个站点服务器资源，支持网络内容的健康持续发展。</span>
+                            </a>
+                                                        <a href="/cooperation/aff.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">推广返利</span>
+                                                                    </div>
+                                <span class="Submenu-desc">享受推广优惠，轻松赚取额外收益</span>
+                            </a>
+                                                        <a href="/cooperation/partner.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">合作伙伴</span>
+                                                                    </div>
+                                <span class="Submenu-desc">共同发展，实现互利共赢的合作伙伴关系</span>
+                            </a>
+                                                                                </div>
+                    </div>
+                                        <div class="Submenu-right">
+                        <div class="Submenu-advertisement">
+        <a class="advertisement-content black" href="/cooperation/aff.html" >
+        <img alt="推荐最高返佣30%" src="/themes/web/www/static/picture/local6624afb6bf492.png">
+        <div class="advertisement-position">
+            <div class="advertisement-title">
+                推荐最高返佣30%            </div>
+            <div class="advertisement-desc">
+                携手合作伙伴，实现业务上的双向合作共赢            </div>
+        </div>
+    </a>
+    </div>
+
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+            <div data-key="4" data-childtype="nav">
+                <div class="Submenu-background black close">
+    <div class="comp_containerw1680p0 comp_container_auto CloseButtonMount">
+        <div class="Submenu-container">
+                        <div class="Submenu-left">
+                <div class="Submenu-left-container">
+                    <div class="Submenu-menuInfo-container">
+                    <div class="Submenu-menuInfo">
+                        <h1 class="Submenu-menuInfo-title">支持与服务</h1>
+                        <p class="Submenu-desc">我们为您提供全方位的支持与服务，确保您在使用我们的云服务时无忧无虑。</p>
+                    </div>
+                    <div class="Submenu-button" alt="其他信息">
+                                            </div>
+                    </div>
+                    <div class="Submenu-contact" alt="联系信息">
+                                            </div>
+                </div>
+            </div>
+                        <div class="Submenu-middle-right">
+                <div class="Submenu-right-line">
+                    <div class="Submenu-middle">
+                        <div class="Submenu-middle-content">
+                                                        <a href="/contact.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">联系我们</span>
+                                                                    </div>
+                                <span class="Submenu-desc">欢迎随时联系我们，期待与您沟通合作！</span>
+                            </a>
+                                                        <a href="/Assure.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">服务保障</span>
+                                                                    </div>
+                                <span class="Submenu-desc">全方位保障，确保您的服务安全可靠。</span>
+                            </a>
+                                                        <a href="/help.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">帮助文档</span>
+                                                                    </div>
+                                <span class="Submenu-desc">解答疑问，提供详细的使用指南和常见问题解答</span>
+                            </a>
+                                                        <a href="/Terms.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">服务条款</span>
+                                                                    </div>
+                                <span class="Submenu-desc">查看我们的服务条款，了解我们的服务范围和使用规则。</span>
+                            </a>
+                                                        <a href="/bt.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">宝塔面板</span>
+                                                                    </div>
+                                <span class="Submenu-desc">提供全面的宝塔面板安装及挂载脚本</span>
+                            </a>
+                                                                                </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+            <div data-key="5" data-childtype="nav">
+                <div class="Submenu-background black close">
+    <div class="comp_containerw1680p0 comp_container_auto CloseButtonMount">
+        <div class="Submenu-container">
+                        <div class="Submenu-left">
+                <div class="Submenu-left-container">
+                    <div class="Submenu-menuInfo-container">
+                    <div class="Submenu-menuInfo">
+                        <h1 class="Submenu-menuInfo-title">了解我们</h1>
+                        <p class="Submenu-desc">10+年商誉沉淀，深耕中国香港及海外高端资源</p>
+                    </div>
+                    <div class="Submenu-button" alt="其他信息">
+                                            </div>
+                    </div>
+                    <div class="Submenu-contact" alt="联系信息">
+                                            </div>
+                </div>
+            </div>
+                        <div class="Submenu-middle-right">
+                <div class="Submenu-right-line">
+                    <div class="Submenu-middle">
+                        <div class="Submenu-middle-content">
+                                                        <a href="/Introduction.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">公司简介</span>
+                                                                    </div>
+                                <span class="Submenu-desc">发现我们的公司的历史、使命和价值观。</span>
+                            </a>
+                                                        <a href="/news.html" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">新闻动态</span>
+                                                                    </div>
+                                <span class="Submenu-desc">浏览最新热门新闻和实时资讯，紧跟时事动态。</span>
+                            </a>
+                                                        <a href="https://dxyw.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=B1-xxx&type=xuke" class="Submenu-item" >
+                                <div class="Submenu-item-title">
+                                    <span class="Submenu-title">增值许可证查询</span>
+                                                                    </div>
+                                <span class="Submenu-desc">合法的增值业务经营资质，为您提供放心的选择</span>
+                            </a>
+                                                                                </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </section>
+
+
+
+
+<section class="Rotation-layoutcontainer container_bg10">
+    <div class="swiper-wrapper-container  default">
+        <div class="home-swiper  swiper-height">
+            <div class="swiper-wrapper swiper-home-speed" data-speed="5000">
+                                <div class="swiper-slide"
+                     data-theme="black"
+                     data-type="img"
+                     data-index="0"
+                     onclick="openPage('/cart?fid=30&gid=51', '0')">
+                                        <div class="comp_swiper_img">
+                        <img src="/themes/web/www/static/banner/remoteL17070356906941.png" alt="香港AMD EPYC 7K62 CN2线路" onerror="handleMediaLoadError(event)">
+                    </div>
+                                        <div class="comp_container comp_container_auto comp_containerrelative">
+                        <div class="swiper-text vertical-navbar black img">
+                            <div class="swiper-text-container wow animate__animated animate__bounce">
+                                                                <div class="Label-container  flex-start">
+                                    <div class="Content"></div>
+                                    <div class="Label">AMD7K62</div>
+                                </div>
+                                                                <div class="Title-container">
+                                    <div class="Title">香港AMD EPYC 7K62 CN2线路</div>
+                                    <div class="Describe">高速DDR4内存
+U.2高速硬盘
+是你建站绝佳选择</div>
+                                </div>
+                                                                <div class="Button-container">
+                                    <a class="Button fancy-button bg-gradient"
+                                       href="/cart?fid=30&gid=51" >
+                                        <span>立即享受</span>
+                                    </a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                    </div>
+                                <div class="swiper-slide"
+                     data-theme="black"
+                     data-type="img"
+                     data-index="1"
+                     onclick="openPage('', '0')">
+                                        <div class="comp_swiper_img">
+                        <img src="/themes/web/www/static/banner/remoteL17125132174291.jpg" alt="上海BGP线路云服务器" onerror="handleMediaLoadError(event)">
+                    </div>
+                                        <div class="comp_container comp_container_auto comp_containerrelative">
+                        <div class="swiper-text vertical-navbar black img">
+                            <div class="swiper-text-container wow animate__animated animate__bounce">
+                                                                <div class="Label-container  flex-start">
+                                    <div class="Content"></div>
+                                    <div class="Label">上海BGP</div>
+                                </div>
+                                                                <div class="Title-container">
+                                    <div class="Title">上海BGP线路云服务器</div>
+                                    <div class="Describe">高速稳定的网络连接
+多运营商网络接入
+安全可靠的网络环境
+灵活的配置和扩展性</div>
+                                </div>
+                                                                <div class="Button-container">
+                                    <a class="Button fancy-button bg-gradient"
+                                       href="" >
+                                        <span>立即享受</span>
+                                    </a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                    </div>
+                                <div class="swiper-slide"
+                     data-theme="black"
+                     data-type="img"
+                     data-index="2"
+                     onclick="openPage('/cart?fid=18&gid=15', '0')">
+                                        <div class="comp_swiper_img">
+                        <img src="/themes/web/www/static/banner/remoteL17069813929829.jpg" alt="香港CMI千兆带宽云服务器" onerror="handleMediaLoadError(event)">
+                    </div>
+                                        <div class="comp_container comp_container_auto comp_containerrelative">
+                        <div class="swiper-text vertical-navbar black img">
+                            <div class="swiper-text-container wow animate__animated animate__bounce">
+                                                                <div class="Label-container  flex-start">
+                                    <div class="Content"></div>
+                                    <div class="Label">香港G口</div>
+                                </div>
+                                                                <div class="Title-container">
+                                    <div class="Title">香港CMI千兆带宽云服务器</div>
+                                    <div class="Describe">香港CMI千兆带宽云服务器保障您的业务无时无刻在安全环境中运行</div>
+                                </div>
+                                                                <div class="Button-container">
+                                    <a class="Button fancy-button bg-gradient"
+                                       href="/cart?fid=18&gid=15" >
+                                        <span>立即享受</span>
+                                    </a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                    </div>
+                                <div class="swiper-slide"
+                     data-theme="black"
+                     data-type="img"
+                     data-index="3"
+                     onclick="openPage('/cart?fid=19&gid=16', '0')">
+                                        <div class="comp_swiper_img">
+                        <img src="/themes/web/www/static/banner/remoteL17069812044358.png" alt="宁波电信线路云服务器" onerror="handleMediaLoadError(event)">
+                    </div>
+                                        <div class="comp_container comp_container_auto comp_containerrelative">
+                        <div class="swiper-text vertical-navbar black img">
+                            <div class="swiper-text-container wow animate__animated animate__bounce">
+                                                                <div class="Label-container  flex-start">
+                                    <div class="Content"></div>
+                                    <div class="Label">宁波电信</div>
+                                </div>
+                                                                <div class="Title-container">
+                                    <div class="Title">宁波电信线路云服务器</div>
+                                    <div class="Describe">企业精品，提供稳定、高效、安全的云计算服务，满足您的各种业务需求</div>
+                                </div>
+                                                                <div class="Button-container">
+                                    <a class="Button fancy-button bg-gradient"
+                                       href="/cart?fid=19&gid=16" >
+                                        <span>立即享受</span>
+                                    </a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                    </div>
+                            </div>
+                        <div class="home-pagination-container  comp_container comp_container_auto comp_containerrelative">
+                <div class="home-pagination"></div>
+            </div>
+                        <div class="home-button-prev"></div>
+            <div class="home-button-next"></div>
+                    </div>
+    </div>
+</section>
+<section
+        class="bannerbelow-layoutcontainer  bannerbelow-position a custom">
+    <div class="comp_container comp_container_auto">
+        <div class="bannerbelow-row   black  black openshadow">
+                        <a class="bannerbelow-list" href="/newestactivity.html">
+                                <div class="bannerbelow-icon-container">
+                    <i class="bannerbelow-item-icon"
+                       style="background-image: url(/themes/web/www/static/picture/remoteL17137759208918.png)"></i>
+                </div>
+                                <div class="bannerbelow-content-container">
+                                        <div class="bannerbelow-title">
+                        <span>最新活动</span>
+                    </div>
+                                        <div class="bannerbelow-description">
+                        <span><p>产品促销、助您降本增效</p></span>
+                    </div>
+                                    </div>
+            </a>
+                        <a class="bannerbelow-list" href="/cart">
+                                <div class="bannerbelow-icon-container">
+                    <i class="bannerbelow-item-icon"
+                       style="background-image: url(/themes/web/www/static/picture/remoteL17137759367861.png)"></i>
+                </div>
+                                <div class="bannerbelow-content-container">
+                                        <div class="bannerbelow-title">
+                        <span>产品特惠、轻松上云</span>
+                    </div>
+                                        <div class="bannerbelow-description">
+                        <span><p>为您提供最实惠的上云体验</p></span>
+                    </div>
+                                    </div>
+            </a>
+                        <a class="bannerbelow-list" href="/cooperation/aff.html">
+                                <div class="bannerbelow-icon-container">
+                    <i class="bannerbelow-item-icon"
+                       style="background-image: url(/themes/web/www/static/picture/remoteL17137759611360.png)"></i>
+                </div>
+                                <div class="bannerbelow-content-container">
+                                        <div class="bannerbelow-title">
+                        <span>推广赚佣 轻松赚钱</span>
+                    </div>
+                                        <div class="bannerbelow-description">
+                        <span><p>每笔推荐均可赚钱（现金返佣）</p></span>
+                    </div>
+                                    </div>
+            </a>
+                        <a class="bannerbelow-list" href="/clientarea">
+                                <div class="bannerbelow-icon-container">
+                    <i class="bannerbelow-item-icon"
+                       style="background-image: url(/themes/web/www/static/picture/remoteL17137759901567.png)"></i>
+                </div>
+                                <div class="bannerbelow-content-container">
+                                        <div class="bannerbelow-title">
+                        <span>弹性计算 管理简单</span>
+                    </div>
+                                        <div class="bannerbelow-description">
+                        <span><p>云控制台、弹性配置，灵活管理</p></span>
+                    </div>
+                                    </div>
+            </a>
+                    </div>
+    </div>
+</section>
+
+<style></style><section class="systemproduct-layoutcontainer">
+    <div class="comp_container comp_container_auto">
+                <div class="sk-title-container wow animate__animated animate__pulse">
+            <h1 class="sk-title">
+                提供企业一站式产品与服务            </h1>
+            <span class="sk-desc cutOneSHair">
+                携手三大公有云，提供快速、稳定、安全的全方位需求服务，帮助企业获得高效的动能                <a href="/cart">查看全部</a>
+            </span>
+        </div>
+                <div class="systemproduct-categories hasIcon">
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="2025 · 海外特惠活动"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">2025 · 海外特惠活动</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="2025 · 挂机宝特惠活动"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">2025 · 挂机宝特惠活动</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="2025 · 上云活动"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">2025 · 上云活动</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="限时最新活动"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">限时最新活动</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="中国香港新区"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">中国香港新区</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="香港服务器百兆带宽区"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">香港服务器百兆带宽区</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="大陆云服务器"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">大陆云服务器</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="美国云服务器"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">美国云服务器</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="新加坡云服务器"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">新加坡云服务器</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="大陆云挂机宝"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">大陆云挂机宝</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="物理服务器"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">物理服务器</p>
+            </div>
+                        <div class="systemproduct-category ">
+                                <icon style="background-image: url()"
+                      alt="服务器托管"
+                      class="systemproduct-category-img ">
+                </icon>
+                                <p class="systemproduct-category-name">服务器托管</p>
+            </div>
+                    </div>
+    </div>
+    <div class=" container_bg1 class-systemproducts container_bg2">
+        <div class="comp_container comp_container_auto ">
+            <div class="systemproducts-subclass ">
+                <div class="systemproduct-container">
+                                        <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=37&gid=61"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>活动</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">2025 · 海外特惠年付                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">仅有Linux操作系统,仅支持现金支付，不支持退款，数据盘自选购买，每人限购一台，官网三证齐全，线路：cn2+9929+cmin2，官方群：1039301248，机器不定时加库存，购买前请仔细阅读                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=37&gid=62"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>活动</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">2025 · 海外特惠月付                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">仅有Linux操作系统,仅支持现金支付，不支持退款，数据盘自选购买，每人限购一台，官网三证齐全，线路：新加坡BGP，官方群：1039301248，机器不定时加库存，购买前请仔细阅读                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=38&gid=63"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">2025 · 挂机宝特惠年付                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=34&gid=55"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>活动</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">2025 · 上云活动                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">国庆佳节，感恩回馈！为满足个人开发者、中小企业及企业级用户的多样化云服务需求，我们精心优化了本次国庆云服务特惠活动，从产品分类、价格透明度、福利力度到用户体验均进行升级，让您以更优惠的价格、更清晰的选择，获取稳定高效的云服务资源。                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=27&gid=49"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>活动</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/CN.png"
+                                         alt="CN">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">国内活动区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">此活动区会定时定点的更新最新产品，请大家及时关注                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=27&gid=52"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>活动</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/CN.png"
+                                         alt="CN">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">西安年付活动区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">此活动区会定时定点的更新最新产品，请大家及时关注                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=27&gid=50"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>活动</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/CN.png"
+                                         alt="CN">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">大陆挂机宝                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">此活动区会定时定点的更新最新产品，请大家及时关注                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=30&gid=30"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>最新</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/HK.png"
+                                         alt="HK">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">香港CN2一区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">香港服务器CN2/CTG极速服务器，提供无与伦比的高速连接，稳定可靠，满足您的所有业务需求                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=30&gid=51"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>最新</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/HK.png"
+                                         alt="HK">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">香港AMD二区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">香港AMD7K62服务器CN2/CTG极速服务器，提供无与伦比的高速连接，稳定可靠，满足您的所有业务需求                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=30&gid=44"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>最新</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/HK.png"
+                                         alt="HK">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">香港CN2三区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">香港服务器CN2/CTG极速服务器，提供无与伦比的高速连接，稳定可靠，满足您的所有业务需求                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=18&gid=15"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/HK.png"
+                                         alt="HK">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">香港服务器百兆一区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">香港百兆大宽带服务器一区，提供超强防御，稳定可靠，保障您的业务无时无刻不在安全环境中运行。                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=18&gid=36"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/HK.png"
+                                         alt="HK">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">香港服务器百兆二区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">香港百兆大宽带服务器二区，提供超强防御，稳定可靠，保障您的业务无时无刻不在安全环境中运行。                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=19&gid=16"
+                               >
+                                                        <div class="systemproduct-tagline">
+                                <img
+                                        src="/themes/web/www/static/picture/remoteL16850667456953.svg"
+                                     alt="tagline">
+                                <span>缺货</span>
+                            </div>
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/CN.png"
+                                         alt="CN">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">宁波电信一区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">宁波电信高防服务器一区，企业精品，提供稳定、高效、安全的云计算服务，满足您的各种业务需求                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=39&gid=64"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">美国云服务器一区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=40&gid=65"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">新加坡云服务器一区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=25&gid=26"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">芜湖NAT挂机宝一区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=25&gid=29"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">枣庄NAT挂机宝一区                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=35&gid=58"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/CN.png"
+                                         alt="CN">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">广州 | BGP物理机                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">高端体验、BGP专线接入                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                        <a class="systemproduct-item" href="/cart?fid=35&gid=60"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/CN.png"
+                                         alt="CN">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">宁波 | 电信物理机                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">优质高端体验、100%性能释放、配备金盾防火墙，适合无攻击或有少量攻击业务                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                                    <div class="systemproducts">
+                                                <div class="systemproduct-right-container  wow animate__animated animate__slideInRight">
+                                                        <div class="systemproduct-right-product"
+                                 >
+                                                        <a class="systemproduct-item" href="/cart?fid=36&gid=59"
+                               >
+                                                        <div class="systemproduct-titleinfo">
+                                                                <div class="systemproduct-country">
+                                    <img src="/upload/common/country/CN.png"
+                                         alt="CN">
+                                </div>
+                                                                <div class="systemproduct-info">
+                                    <div class="systemproduct-name">宁波 · 电信 | 托管                                    </div>
+                                                                    </div>
+                            </div>
+                            <div class="systemproduct-desc">国家战略数据中心，网络高可用、低延迟                            </div>
+                            <div class="systemproduct-tag">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                            </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+    </div>
+</section>
+
+<script src="/themes/web/www/static/script/three.min.js"></script>
+<section class="container_bg27">
+    <div class="comp_container comp_container_auto">
+        <div class="network">
+                        <div class="sk-title-container" style="padding-bottom: 20px">
+                <h1 class="sk-title">全网统一规划“N+X”三层资源布局架构</h1>
+                <span class="sk-desc ">全球多个地理区域，提供高速稳定的全球云联接网络、贴近客户的本地化服务</span>
+            </div>
+                        <div class="network_container"
+                 style="height:280px">
+                <div class="feature-wrapper">
+                    <div class="feature-row">
+                                                <div class="feature-item">
+                            <h1 class="feature-title">
+                                国内中心互联                            </h1>
+                            <p class="feature-desc">
+                                辐射国内各大地区，满足全网标准化需求                            </p>
+                        </div>
+                                                <div class="feature-item">
+                            <h1 class="feature-title">
+                                国际中心互联                            </h1>
+                            <p class="feature-desc">
+                                面向国际中心，统一标准，满足属地化用户需求建设多个省级资源池，实现云服务100%覆盖                            </p>
+                        </div>
+                                            </div>
+                </div>
+
+                <div class="network_canvas"
+                     style="height:calc(280px + 80px)">
+                    <canvas id="network_canvas" width="1037"
+                            height="1307"></canvas>
+                </div>
+                <div class="network_right">
+
+                </div>
+            </div>
+            <div class="network_footer">
+                <div class="network_footer_row">
+                                        <div class="certificate_item">
+                        <div class="certificate_icon">
+                            <img src="/themes/web/www/static/picture/sort1.svg"
+                                 alt="大陆内地">
+                        </div>
+                        <div class="certificate_title">
+                            <h1>大陆内地</h1>
+                        </div>
+                    </div>
+                                        <div class="certificate_item">
+                        <div class="certificate_icon">
+                            <img src="/themes/web/www/static/picture/sort2.svg"
+                                 alt="大陆上海">
+                        </div>
+                        <div class="certificate_title">
+                            <h1>大陆上海</h1>
+                        </div>
+                    </div>
+                                        <div class="certificate_item">
+                        <div class="certificate_icon">
+                            <img src="/themes/web/www/static/picture/sort3.svg"
+                                 alt="大陆宁波">
+                        </div>
+                        <div class="certificate_title">
+                            <h1>大陆宁波</h1>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="container_bg10">
+    <div class="comp_container comp_container_auto">
+        <div class="comprehensive-container">
+                        <div class="sk-title-container ">
+                <h1 class="sk-title">
+                    了解最新新闻资讯、网站公告                </h1>
+                <span class="sk-desc ">
+                资讯公告、产品发布，汇聚前沿的云计算技术            </span>
+            </div>
+                        <div class="comprehensive-news-container">
+                <div class="comprehensive-news-left black">
+                    <div class="comprehensive-news-left-inner"
+                         style="background-image:url(/themes/web/www/static/picture/remoteL17075739033142.png)">
+                        <span class="comprehensive-news-left-inner-title">
+                            服务器租用服务条款                        </span>
+                        <span class="comprehensive-news-left-inner-describe">
+                            在您使用本产品的过程中，严禁将其用于任何涉及VPN、代理服务、内容分发网络（CDN）、木马、病毒、色情内容、赌博活动、诈骗行为或其他任何违反法律法规的用途。若发现此类行为，我们将不得不收回产品，终止您的账户服务，并拒绝为您提供任何后续的技术支持。我们郑重提醒您，遵守相关法律法规，合理使用产品。                        </span>
+                                                <div class="comprehensive-news-left-inner-button">
+                            <a href="">
+                                <span>阅读条款</span>
+                            </a>
+                        </div>
+                                            </div>
+                </div>
+                <div class="comprehensive-news-right" style="margin-left:0">
+                                        <div class="comprehensive-news-right-inner wow animate__animated animate__slideInRight">
+                        <div class="comprehensive-news-article-row">
+                            <div class="comprehensive-news-article-tab">
+                                                                <div class="comprehensive-news-column active">
+                                    新闻列表                                </div>
+                                                                <div class="comprehensive-news-column ">
+                                    帮助与教程                                </div>
+                                                            </div>
+                            <div class="comprehensive-news-article">
+                                                                <div class="comprehensive-news-article-container active">
+                                                                        <div class="news-article-container-item">
+                                        <a href="/newscontent/25.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                2025年国家网络安全宣传周丨网络安全为人民 网络安全靠人民</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-09-15</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                        <div class="news-article-container-item">
+                                        <a href="/newscontent/23.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                《关于维护市场秩序的禁止低价销售告知书》</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-09-06</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                        <div class="news-article-container-item">
+                                        <a href="/newscontent/21.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                《核云计算平台发票开票规则》</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-09-02</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                        <div class="news-article-container-item">
+                                        <a href="/newscontent/20.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                《核云计算平台IDC业务续费通知规则》</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-09-02</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                        <div class="news-article-container-item">
+                                        <a href="/newscontent/19.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                《核云计算平台账号服务协议》</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-09-02</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                        <div class="news-article-container-item">
+                                        <a href="/newscontent/18.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                《核云计算平台人脸核身服务条款》</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-09-02</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                        <div class="news-article-container-item">
+                                        <a href="/newscontent/17.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                《【重要提醒】防诈骗公告》2025.06.18生效</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-06-18</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                    </div>
+                                                                <div class="comprehensive-news-article-container ">
+                                                                        <div class="news-article-container-item">
+                                        <a href="/helpcontent/22.html"
+                                           class="news-article-container-item-container">
+                                            <span class="comprehensive-news-article-title">
+                                                香港云服务器邮件端口开通须知</span>
+                                            <span class="comprehensive-news-article-time">
+                                                2025-09-02</span>
+                                            </span>
+                                        </a>
+                                    </div>
+                                                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section
+        class="footerContainer footerContainer-h dark container_bg26"
+        style="background:#0a1633">
+    <div class="comp_container comp_container_auto footerContainer_center" >
+                <div class="footerItem">
+            <a >
+            <img src="/themes/web/www/static/picture/remoteL16905328288110.svg" alt="">
+            <div class="footerText">
+                <div>全天候品质服务</div>
+                <div>7/24小时专业工程师服务</div>
+            </div>
+            </a>
+        </div>
+                <div class="footerItem">
+            <a >
+            <img src="/themes/web/www/static/picture/remoteL16905328285515.svg" alt="">
+            <div class="footerText">
+                <div>极速服务应答</div>
+                <div>秒级应答为业务保驾护航</div>
+            </div>
+            </a>
+        </div>
+                <div class="footerItem">
+            <a >
+            <img src="/themes/web/www/static/picture/remoteL16905328293623.svg" alt="">
+            <div class="footerText">
+                <div>客户价值为先</div>
+                <div>从服务价值到创造客户价值</div>
+            </div>
+            </a>
+        </div>
+                <div class="footerItem">
+            <a >
+            <img src="/themes/web/www/static/picture/remoteL16905328292905.svg" alt="">
+            <div class="footerText">
+                <div>全方位安全保障</div>
+                <div>打造一朵“透明可信”的云</div>
+            </div>
+            </a>
+        </div>
+            </div>
+    <div class="comp_container comp_container_auto footerContainernav">
+        <div class="footerMenus">
+            <div class="footerMenuscontainer">
+                                <div class="footerMenuColumn">
+                    <div class="footerMenuHeading">服务指南</div>
+                                        <div class="footerMenuItem">
+                        <a href="/security">安全中心</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/verified">实名认证</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/invoicelist">API管理</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/submitticket">提交工单</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="">服务条款</a>
+                    </div>
+                                                        </div>
+                                <div class="footerMenuColumn">
+                    <div class="footerMenuHeading">代理系统</div>
+                                        <div class="footerMenuItem">
+                        <a href="/agent.html">合作伙伴</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/aff.html">代理推广</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/affiliates">推广明细</a>
+                    </div>
+                                                        </div>
+                                <div class="footerMenuColumn">
+                    <div class="footerMenuHeading">帮助中心</div>
+                                        <div class="footerMenuItem">
+                        <a href="/news.html">行业新闻</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/help.html">帮助中心</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/downloads">文件下载</a>
+                    </div>
+                                                        </div>
+                                <div class="footerMenuColumn">
+                    <div class="footerMenuHeading">关于我们</div>
+                                        <div class="footerMenuItem">
+                        <a href="/Introduction.html">公司简介</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/contact.html">联系我们</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/news.html">公司动态</a>
+                    </div>
+                                                            <div class="footerMenuItem">
+                        <a href="/certificate.html">荣誉资质</a>
+                    </div>
+                                                        </div>
+                            </div>
+            <div class="footerauthenticationcontainer">
+                                <div class="footerauthentication">
+                    <a >
+                    <img src="/themes/web/www/static/picture/aqrz.png" alt="">
+                    </a>
+                </div>
+                                                <div class="footerauthentication">
+                    <a >
+                    <img src="/themes/web/www/static/picture/97ebqd4v.png" alt="">
+                    </a>
+                </div>
+                                                <div class="footerauthentication">
+                    <a >
+                    <img src="/themes/web/www/static/picture/foot02.png" alt="">
+                    </a>
+                </div>
+                                                <div class="footerauthentication">
+                    <a >
+                    <img src="/themes/web/www/static/picture/kyrdorvp.png" alt="">
+                    </a>
+                </div>
+                                                <div class="footerauthentication">
+                    <a >
+                    <img src="/themes/web/www/static/picture/sdrz.png" alt="">
+                    </a>
+                </div>
+                                            </div>
+        </div>
+        <div class="footerInfo">
+            <div class="footerQRCode">
+                                <div class="qrcode_content">
+                    <img class="qrcode_content_img" src="/themes/web/www/upload/local68c306d9038be.jpg" alt="QQ交流群">
+                    <span class="qrcode_content_title">QQ交流群</span>
+                </div>
+                                                <div class="qrcode_content">
+                    <img class="qrcode_content_img" src="/themes/web/www/upload/local68c307142cf1b.jpg" alt="QQ客服">
+                    <span class="qrcode_content_title">QQ客服</span>
+                </div>
+                                                <div class="qrcode_content">
+                    <img class="qrcode_content_img" src="/themes/web/www/upload/local68c3075c795e3.jpg" alt="企业微信">
+                    <span class="qrcode_content_title">企业微信</span>
+                </div>
+                                                <div class="qrcode_content">
+                    <img class="qrcode_content_img" src="/themes/web/www/upload/local68c307cfcf072.jpg" alt="在线客服">
+                    <span class="qrcode_content_title">在线客服</span>
+                </div>
+                                                <div class="qrcode_content">
+                    <img class="qrcode_content_img" src="/themes/web/www/upload/local68c80fe5950ec.jpg" alt="企业微信群">
+                    <span class="qrcode_content_title">企业微信群</span>
+                </div>
+                                            </div>
+                        <div class="footerContact">
+                服务热线:
+                <a href="tel:联系网站客服">联系网站客服</a>
+            </div>
+                        <div class="footerContact">电子邮箱:
+                <a href="/cdn-cgi/l/email-protection#553d302c203b3c3136153d302c203b3c31367b233c25"><span class="__cf_email__" data-cfemail="94fcf1ede1fafdf0f7d4fcf1ede1fafdf0f7bae2fde4">[email&#160;protected]</span></a>
+            </div>
+                    </div>
+    </div>
+    <div class="comp_container comp_container_auto footerContainercopy">
+        <div class="footerCopyright">
+            <div class="footer_bottom_left">
+                <div class="copyright">
+                                        <div class="filingInformation">
+                        <div class="filingInformationicon">
+                        </div>
+                        <div class="filingInformationtitle">
+                            <a>Copyright © 2025  All Rights Reserved 核云计算平台 版权所有</a>
+                        </div>
+                    </div>
+                                        <div class="filingInformation">
+                        <div class="filingInformationicon">
+                             <img src="/themes/web/www/static/picture/gongan.png" alt="IDC/ISP/CDN证号:B1-20253433">                        </div>
+                        <div class="filingInformationtitle">
+                            <a  href="https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=B1-20253433&type=xuke" target="_blank" >IDC/ISP/CDN证号:B1-20253433</a>
+                        </div>
+                    </div>
+                                        <div class="filingInformation">
+                        <div class="filingInformationicon">
+                             <img src="/themes/web/www/static/picture/local657930f11d1cd.png" alt="网站备案号:陇ICP备2025021886号-1">                        </div>
+                        <div class="filingInformationtitle">
+                            <a  href="https://beian.miit.gov.cn/" target="_blank" >网站备案号:陇ICP备2025021886号-1</a>
+                        </div>
+                    </div>
+                                        <div class="filingInformation">
+                        <div class="filingInformationicon">
+                             <img src="/themes/web/www/static/picture/gongan.png" alt="甘公安备案:甘公安备62090002000144号">                        </div>
+                        <div class="filingInformationtitle">
+                            <a  href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=62090002000144" target="_blank" >甘公安备案:甘公安备62090002000144号</a>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="footerCopyleft">
+                        <div class="footerCopyleftcontainer">
+                                <div class="footerCopyleftitem">
+                    <a href="https://www.ipip.net/" target="_blank">
+                        <span>IP库查询</span>
+                    </a>
+                </div>
+                                                <div class="footerCopyleftitem">
+                    <a href="/sitemap.xml" target="_blank">
+                        <span>站点地图</span>
+                    </a>
+                </div>
+                                                <div class="footerCopyleftitem">
+                    <a href="https://www.itdog.cn/ping/" target="_blank">
+                        <span>PING测速</span>
+                    </a>
+                </div>
+                                                <div class="footerCopyleftitem">
+                    <a href="https://www.itdog.cn/tcping/" target="_blank">
+                        <span>TCP检测</span>
+                    </a>
+                </div>
+                                                <div class="footerCopyleftitem">
+                    <a href="https://www.heyunidc.cn/" target="_blank">
+                        <span>核云计算平台</span>
+                    </a>
+                </div>
+                                            </div>
+            <div class="friendlyLinkButton">友情链接<i class="linkbox"></i></div>
+                    </div>
+    </div>
+</section>
+<div class="online_Nav" style="--servicewidth:40px;
+--serviceline:1">
+    <div class=" animate__animated animate__slideInRight">
+        <div class="phone-container ">
+        <div class="consultation-box">
+            <div class="border-decorator decorator-one"></div>
+            <div class="border-decorator decorator-two"></div>
+            <div class="border-decorator decorator-three"></div>
+            <div class="border-decorator decorator-four"></div>
+            <img class="consultation-image"
+                 src="/themes/web/www/static/picture/remoteL17137804762255.jpeg"
+                 alt="">
+            <a class="consultation-button" href=""  target="blank"
+                 style="background: rgba(0, 86, 255, 1)"><p>在线咨询</p></a>
+        </div>
+    </div>
+        <div class="sideNavigation">
+        <div class="online_body" >
+                        <div class="online_navItem">
+                <a class="onlineService"><i
+                        class="develop sk-tubiao_kefu"></i></a>
+                <div class="hoverWindow">
+                    <div class="onlineservice_triangle"></div>
+                    <div class="onlineService_Body">
+                        <div class="onlineservice_content">
+                            <div class="onlineService_Title">
+                                <div class="onlineService_Title_Icon"></div>
+                                <div class="onlineService_Title_Text">
+                                    <div
+                                            class="onlineService_kefu display">
+                                                                                <a                                            href="/default/qq.html?qq=3373428471"
+                                           target="_blank"
+                                           >
+                                        <div class="kefuInformation">
+                                            <div class="kefuInformation-status">
+                                                <img class="qqicon online"
+                                                     src="//q1.qlogo.cn/g?b=qq&nk=3373428471&s=100"
+                                                     alt=" 核云计算平台"
+                                                     width="100%"
+                                                     height="100%"/>
+                                                <i class="online-indicator"></i>
+                                            </div>
+                                            <div class="nicknameInformation">
+                                                    <span class="nickname">核云计算平台                                                    </span>
+                                                <span class="qq">售前咨询/售后咨询/财务</span>
+                                            </div>
+                                        </div>
+                                        </a>
+                                                                                </div>
+                                    <div
+                                            class="onlineService_kefu display Telegram ">
+                                                                                <a href="tel:联系网站客服"
+                                           target="_blank">
+                                            <div class="kefuInformation">
+                                                <img class="qqicon"
+                                                     src="/themes/web/www/static/picture/Hotline.svg"
+                                                     alt=" 客服热线"
+                                                     width="100%" height="100%">
+                                                <div class="nicknameInformation">
+                                                    <span class="nickname">客服热线(24H)</span>
+                                                    <span class="qq often">
+                                                        拨打:联系网站客服</span>
+                                                </div>
+                                            </div>
+                                        </a>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="online_navItem">
+                <a class="onlineService"><i class="develop sk-bianji1"></i></a>
+                <div class="hoverWindow">
+                    <div class="onlineservice_triangle"></div>
+                    <div class="onlineService_Body">
+                        <div class="onlineservice_content workOrder">
+                                                        <a class="onlineService_Title" href="/submitticket">
+                                <div class="onlineService_Title_Icon"><i
+                                        class="sk icon_edit"></i></div>
+                                <div class="onlineService_Title_Text">
+                                    <p class="onlineServicetitle">
+                                        提交工单</p>
+                                    <span class="onlineServicedesc"
+                                          >
+                                    我们会第一时间处理您的需求                                    </span>
+                                </div>
+                            </a>
+                                                                                    <a class="onlineService_Title" href="/submitticket">
+                                <div class="onlineService_Title_Icon"><i
+                                        class="develop sk-tousujianyi"></i></div>
+                                <div class="onlineService_Title_Text">
+                                    <p class="onlineServicetitle">
+                                        建议反馈</p>
+                                    <span class="onlineServicedesc"
+                                          >
+                                    真诚期待您的宝贵意见                                    </span>
+                                </div>
+                            </a>
+                                                                                    <a class="onlineService_Title" href="/submitticket">
+                                <div class="onlineService_Title_Icon"><i
+                                        class="develop sk-jubao"></i></div>
+                                <div class="onlineService_Title_Text">
+                                    <p class="onlineServicetitle">
+                                        违法举报</p>
+                                    <span class="onlineServicedesc"
+                                                                                    style="color:#FA7100" >
+                                    "违法有害信息"举报专区                                    </span>
+                                </div>
+                            </a>
+                                                                                </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="online_navItem">
+                <a class="onlineService"><i
+                        class="develop sk-31erweima"></i></a>
+                <div class="hoverWindow">
+                    <div class="onlineservice_triangle"></div>
+                    <div class="onlineService_Body officialAccount">
+                                                <div class="onlineservice_content">
+                            <div class="onlineService_Title">
+                                <div class="onlineService_Title_Icon"></div>
+                                <div class="onlineService_Title_Text">
+                                    <img class="qrCode" src="/themes/web/www/upload/local68c306d9038be.jpg"
+                                         alt="31erweima" width="100%"
+                                         height="100%"/>
+                                </div>
+                            </div>
+                            <div class="onlineService_Close">QQ交流群</div>
+                        </div>
+                                                                        <div class="onlineservice_content">
+                            <div class="onlineService_Title">
+                                <div class="onlineService_Title_Icon"></div>
+                                <div class="onlineService_Title_Text">
+                                    <img class="qrCode" src="/themes/web/www/upload/local68c307142cf1b.jpg"
+                                         alt="31erweima" width="100%"
+                                         height="100%"/>
+                                </div>
+                            </div>
+                            <div class="onlineService_Close">QQ客服</div>
+                        </div>
+                                                                        <div class="onlineservice_content">
+                            <div class="onlineService_Title">
+                                <div class="onlineService_Title_Icon"></div>
+                                <div class="onlineService_Title_Text">
+                                    <img class="qrCode" src="/themes/web/www/upload/local68c3075c795e3.jpg"
+                                         alt="31erweima" width="100%"
+                                         height="100%"/>
+                                </div>
+                            </div>
+                            <div class="onlineService_Close">企业微信</div>
+                        </div>
+                                                                        <div class="onlineservice_content">
+                            <div class="onlineService_Title">
+                                <div class="onlineService_Title_Icon"></div>
+                                <div class="onlineService_Title_Text">
+                                    <img class="qrCode" src="/themes/web/www/upload/local68c307cfcf072.jpg"
+                                         alt="31erweima" width="100%"
+                                         height="100%"/>
+                                </div>
+                            </div>
+                            <div class="onlineService_Close">企业客服</div>
+                        </div>
+                                                                        <div class="onlineservice_content">
+                            <div class="onlineService_Title">
+                                <div class="onlineService_Title_Icon"></div>
+                                <div class="onlineService_Title_Text">
+                                    <img class="qrCode" src="/themes/web/www/upload/local68c80fe5950ec.jpg"
+                                         alt="31erweima" width="100%"
+                                         height="100%"/>
+                                </div>
+                            </div>
+                            <div class="onlineService_Close">企业交流群</div>
+                        </div>
+                                                                    </div>
+                </div>
+            </div>
+                    </div>
+        <div class="onlineTop">
+            <div class="onlineTop_icon">
+                <i class="develop sk-fanhuidingbu1"></i>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/themes/web/www/static/script/wow.min.js?v3.7.7"></script>
+<script src="/themes/web/www/static/script/common.js?v3.7.7"></script>
+<script src="/themes/web/www/static/script/universalComponents.js?v3.7.7"></script>
+<script src="/themes/web/www/default/html/globalJS.js?v3.7.7"></script>
+<script src="/themes/web/www/default/html/wwwJS.js?v3.7.7"></script>
+<div id="notificationmsg" style="display:none;">
+    <p style="text-align: center;"><span style="font-size: 24px; color: rgb(224, 62, 45);"><strong>2025 &middot; 海外特惠活动</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 18px; color: rgb(224, 62, 45);"><strong>官方QQ群：1039301248&nbsp;  </strong></span></p>
+<p style="text-align: center;"><span style="font-size: 18px; color: rgb(224, 62, 45);"><strong>不然容易抢不到，机器不定时加库存，购买前请仔细阅读</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><strong>海外云服务器特惠狂欢！低至19.9/年起</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><strong>美国2核2G高性价比配置仅需19.99元/年</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><strong>新加坡BGP2核2G高性价比配置仅需28.88元/年</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><strong>稳定运维+免备案，火速抢单锁定优惠～</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 16px; color: rgb(224, 62, 45);"><strong>仅有Linux操作系统,仅支持现金支付，不支持退款，数据盘自选购买，每人限购一台，官网三证齐全</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><strong>美国线路：cn2+9929+cmin2，新加坡线路：新加坡BGP</strong></span></p>
+<p style="text-align: center;">&nbsp; </p></div>
+<style>
+    .layer-btn {
+        padding: 20px 24px 16px;
+        text-align: right;
+        display: flex;
+        flex-direction: row-reverse;
+        gap: 20px;
+    }
+
+    .layer-commit {
+        background: #ccc;
+        color: #fff;
+    }
+</style>
+<script>
+    $(function () {
+        PopUpReminder('2', 'zsYxIeDQ', '2025 · 海外特惠活动', '立即选购', '/cart?fid=37&gid=61')
+    });
+</script>
+<script>
+        $(document).ready(function(){
+        if(!(/msie [6|7|8|9]/i.test(navigator.userAgent))){
+        new WOW().init();}; $("[data-toggle='tooltip']").jTippy();module.nav();module.footer();module.sidebar();module.swiper();module.product();module.news();module.network('/themes/web/www/static/picture/local65c38d605e0e2.png',8,60,120);
+        });</script></body>
+</html>
