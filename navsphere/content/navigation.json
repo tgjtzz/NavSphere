@@ -207,8 +207,8 @@
           "id": "site_1758897784868_nn21rgy8z",
           "title": "Linux 工具箱",
           "href": "https://shell.cdn1.vip",
-          "description": "Linux工具箱是一个功能强大的Linux系统管理工具，提供系统优化、虚拟内存管理、DNS配置、软件源更换等多种功能，让Linux服务器管理变得简单高效。",
-          "icon": "",
+          "description": "",
+          "icon": "/assets/favicon_1761313443048.png",
           "enabled": true
         },
         {
