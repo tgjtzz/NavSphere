@@ -7,10 +7,10 @@
       "items": [
         {
           "id": "1_2",
-          "title": "Vercel",
+          "title": "Vercel: Build and deploy the best web experiences with the AI Cloud",
           "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "",
+          "description": "Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+          "icon": "/assets/favicon_1761309051566.png",
           "enabled": true
         },
         {
