@@ -160,7 +160,7 @@
           "title": "直播源论坛",
           "href": "https://bbs.livecodes.vip/",
           "description": "直播源论坛",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.livecodes.vip",
+          "icon": "https://bbs.livecodes.vip/static/image/common/logo.svg",
           "enabled": true
         }
       ],
