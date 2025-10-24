@@ -31,10 +31,10 @@
         },
         {
           "id": "site_1758439289113_nzl88ivza",
-          "title": "Bgithub",
-          "href": "http://bgithub.xyz",
-          "description": "访问 bgithub.xyz",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bgithub.xyz",
+          "title": "Github",
+          "href": "http://github.com",
+          "description": "",
+          "icon": "/assets/favicon_1761311692040.png",
           "enabled": true
         },
         {
