@@ -102,6 +102,14 @@
           "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
           "icon": "/assets/favicon_1761313072119.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764735573694_8b5tgd8eg",
+          "title": "OmniBox",
+          "href": "http://222.186.21.30:52406/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=222.186.21.30",
+          "enabled": true
         }
       ],
       "subCategories": [],
