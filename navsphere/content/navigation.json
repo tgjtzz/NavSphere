@@ -288,14 +288,6 @@
           "enabled": true
         },
         {
-          "id": "1758380825618",
-          "title": "simon工具箱",
-          "href": "http://8.134.236.66:45678/simonGJX/mkjd.php",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1758380884731",
           "title": "IPTV抓包数据解析",
           "href": "https://gyssi.link/iptv/888.html",
