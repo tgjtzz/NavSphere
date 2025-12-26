@@ -6,14 +6,6 @@
       "icon": "Star",
       "items": [
         {
-          "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
-          "icon": "/assets/favicon_1761309051566.png",
-          "enabled": true
-        },
-        {
           "id": "1_3",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
