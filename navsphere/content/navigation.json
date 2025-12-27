@@ -310,6 +310,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1766793914611_uvec7jwkt",
+          "title": "IPTVindex",
+          "href": "https://iptvindex.com/",
+          "description": "",
+          "icon": "/assets/favicon_1766793886355.png",
+          "enabled": true
         }
       ],
       "subCategories": []
