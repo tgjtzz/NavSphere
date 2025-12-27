@@ -52,6 +52,14 @@
           "description": "宝塔(bt.cn)，让运维简单高效。面板支持Linux与Windows系统。一键配置：LAMP/LNMP、网站、数据库、FTP、SSL，通过Web端轻松管理服务器。",
           "icon": "/assets/favicon_1759648622767.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1766793708595_1y2fwiuek",
+          "title": "裤佬书签收藏",
+          "href": "https://jsnzkpg.github.io",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jsnzkpg.github.io",
+          "enabled": true
         }
       ],
       "subCategories": [],
